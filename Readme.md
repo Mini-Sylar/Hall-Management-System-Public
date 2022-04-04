@@ -28,9 +28,20 @@ A public version of the hall management system
 
 # Screenshots
 ## Desktop
+<div style="display:flex;">
+<img src="./Screenshots/screenshot1.png" width=50%>
+<img src="./Screenshots/screenshot10.png" width=50%>
+<img src="./Screenshots/screenshot7.png" width=50%>
+<img src="./Screenshots/screenshot2.png" width=50%>
+<img src="./Screenshots/screenshot9.png" width=50%>
+</div>
 
 ## Mobile
-
+<div style="display:flex;">
+<img src="./Screenshots/screenshot5.png" width=50%>
+<img src="./Screenshots/screenshot6.png" width=50%>
+<img src="./Screenshots/screenshot3.png" width=50%>
+</div>
 
 # Technologies Used
 - Python (Flask)
