@@ -2,7 +2,7 @@
 A public version of the hall management system
 
 # Try it Out
-- [Hall Management System](https://hall-management-public-dev.herokuapp.com/) 
+- 👉 [Hall Management System](https://hall-management-public-dev.herokuapp.com/) 👈
 - Secret key for account creation: "*porter2021*" Case Sesntive!!!
 
 # Purpose
@@ -38,9 +38,9 @@ A public version of the hall management system
 
 ## Mobile
 <div style="display:flex;">
-<img src="./Screenshots/screenshot5.png" width=50%>
-<img src="./Screenshots/screenshot6.png" width=50%>
-<img src="./Screenshots/screenshot3.png" width=50%>
+<img src="./Screenshots/screenshot5.png" width=40%>
+<img src="./Screenshots/screenshot6.png" width=40%>
+<img src="./Screenshots/screenshot3.png" width=40%>
 </div>
 
 # Technologies Used
